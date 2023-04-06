@@ -24,11 +24,11 @@
 </h1>
 
 <div id="aboutMe">
-I'am Java backend developer from Belarus!
+I'am Python backend developer from Belarus!
 <br/>
-- 🌱 I’m currently enreaching my knowledge about Java, Spring and SQL & NoSQL.
+- 🌱 I’m currently enreaching my knowledge about Python, Django + DRF, SQL & NoSQL.
 <br/>
-- 🔭 I’m  working on my projects <a href="https://github.com/Lelikbjmak?tab=repositories">
+- 🔭 I’m  working on my projects <a href="https://github.com/cyber-tatarin?tab=repositories">
 <img src="https://www.freeiconspng.com/uploads/blue-idea-icon-18.png" width="17px">observe<a/>
 <br/>
 - ⚡ In my lesior time I solve tasks on codewars.com, boost english speach.
