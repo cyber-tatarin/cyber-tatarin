@@ -46,7 +46,4 @@ I'am Python backend developer from Belarus!
   <img src="https://brandslogos.com/wp-content/uploads/thumbs/microsoft-sql-server-logo-vector.svg" title="MS SQL Server" alt="MS Server" height="40">
 </div>
 
----
-
-
 
