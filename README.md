@@ -10,7 +10,7 @@
   </a>
   
   <a href="https://t.me/dimatatatarin">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Youtube Badge" width="70" style="margin-left=24px; margin-right=24px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Youtube Badge" width="70" style="margin-left:24px; margin-right:24px;"/>
   </a>
   
   <a href="mailto:dmitriyseur@gmail.com@gmail.com">
