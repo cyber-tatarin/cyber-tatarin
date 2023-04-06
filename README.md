@@ -9,7 +9,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/1200px-LinkedIn_icon_circle.svg.png" alt="LinkedIn Badge" width="70"/>
   </a>
   
-  <a href="https://t.me/dimatatatarin" style="margin-left=4px; margin-right=4px;">
+  <a href="https://t.me/dimatatatarin" style="margin-left=24px; margin-right=24px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="Youtube Badge" width="70" />
   </a>
   
