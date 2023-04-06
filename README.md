@@ -31,7 +31,7 @@ I'am Python backend developer from Belarus!
 - 🔭 I’m  working on my projects <a href="https://github.com/cyber-tatarin?tab=repositories">
 <img src="https://www.freeiconspng.com/uploads/blue-idea-icon-18.png" width="17px">observe<a/>
 <br/>
-- ⚡ In my lesior time I solve tasks on codewars.com, boost english speach.
+- ⚡ In my leisure time I solve tasks on codewars.com, boost english speach.
 </div>
 
 ---
@@ -39,7 +39,6 @@ I'am Python backend developer from Belarus!
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original-wordmark.svg" title="PostrgeSQL"  alt="PostrgeSQL" width="40" height="40">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
