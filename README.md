@@ -24,14 +24,14 @@
 </h1>
 
 <div id="aboutMe">
-I'am Python backend developer from Belarus!
+I'm Python backend developer from Belarus!
 <br/>
 - 🌱 I’m currently enreaching my knowledge about Python, Django + DRF, SQL & NoSQL.
 <br/>
 - 🔭 I’m  working on my projects <a href="https://github.com/cyber-tatarin?tab=repositories">
 <img src="https://www.freeiconspng.com/uploads/blue-idea-icon-18.png" width="17px">observe<a/>
 <br/>
-- ⚡ In my leisure time I solve tasks on codewars.com, boost english speach.
+- ⚡ In my leisure time I solve tasks on codewars.com, boost english speech.
 </div>
 
 ---
